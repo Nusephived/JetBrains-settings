@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="5e7c115bd0a2411da8105e0b10d4ce4f" type="AUTO_DETECTED" />
+      <mapping pattern=".CNR.TRM_gazole_pro.csv.icloud" type="PLAIN_TEXT" />
+      <mapping ext="model" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
