@@ -3,7 +3,7 @@
     <property name="created">2022-12-20T10:33:37</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2022-12-20T10:55:18</property>
+    <property name="modified">2022-12-20T11:07:23</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,6 @@
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="fcfcfa" />
     <option name="CARET_ROW_COLOR" value="363337" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2d2a2e" />
     <option name="DELETED_LINES_COLOR" value="ff6188" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
@@ -321,7 +320,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="78dce8" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
