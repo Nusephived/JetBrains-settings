@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/Kitoz-France/Perseide-1" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Nusephived/Weathener" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Cloud/Documents/Cours/Kitoz" />
+    <option name="cloneParentDir" value="$USER_HOME$/Cloud/Documents/Cours/Bases de données et Big Data" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
