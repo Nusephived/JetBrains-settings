@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/Nusephived/Weathener" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Techiio/Miraculous" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Cloud/Documents/Cours/Bases de données et Big Data" />
