@@ -7,6 +7,7 @@
       <mapping pattern=".CNR.TRM_gazole_pro.csv.icloud" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="v2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
